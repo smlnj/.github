@@ -13,7 +13,7 @@ There are two main repositories:
   To report bugs in the legacy versions, use the
   [legacy issue tracker](https://github.com/smlnj/legacy/issues).
 
-* The ["development"](https://github.com/smlnj/smlnj) is the latest version of
+* The ["development"](https://github.com/smlnj/smlnj) repository is the latest version of
   the system.  We are making substantial changes to the runtime system and compiler
   backend in this repository, so it is not recommended for production work.<br/>
   To report bugs in the development version, use the
