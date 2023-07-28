@@ -20,8 +20,6 @@ There are two main repositories:
   for production work.<br/>
   To report bugs in the development version, use the
   [development issue tracker](https://github.com/smlnj/smlnj/issues).
-  For questions and discussion, try the ["discussion forum"]( associated
-  with this repo
 
 * For questions and discussion about SML/NJ, one resource is the Standard ML
   Organization at Zulip.com ["https://standardml.zulipchat.com"](https://standardml.zulipchat.com).
