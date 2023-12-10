@@ -3,6 +3,8 @@
 The [**Standard ML of New Jersey** (**SML/NJ**)](https://smlnj.org) project is an open-source
 implementation of the [Standard ML Programming Language](https://github.com/SMLFamily).
 
+## Repositories
+
 There are two main repositories:
 
 * The ["legacy"](https://github.com/smlnj/legacy) repository
@@ -21,9 +23,11 @@ There are two main repositories:
   To report bugs in the development version, use the
   [development issue tracker](https://github.com/smlnj/smlnj/issues).
 
-* For questions and discussion about SML/NJ, one resource is the Standard ML
-  Organization at Zulip.com ["https://standardml.zulipchat.com"](https://standardml.zulipchat.com).
-  Another is the ["smlnj discussions forum"](https://github.com/orgs/smlnj/discussions).
+## Sources of Information
 
-Information about the implementation of **SML/NJ** (including future plans)
-can be found in the [**SML/NJ** Developer Notes](https://github.com/smlnj/smlnj/wiki).
+* Information about the implementation of **SML/NJ** (including future plans)
+  can be found in the [**SML/NJ** Wiki](https://github.com/smlnj/.github/wiki).
+
+* For questions and discussion about SML/NJ, one resource is the Standard ML
+  Organization at [Zulip.com](https://standardml.zulipchat.com).
+  Another is the ["smlnj discussions forum"](https://github.com/orgs/smlnj/discussions).
