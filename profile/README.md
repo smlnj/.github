@@ -23,7 +23,12 @@ There are two main repositories:
   To report bugs in the development version, use the
   [development issue tracker](https://github.com/smlnj/smlnj/issues).
 
+* Other issues, such as broken links on website or documentation errors should
+  be reported using the [project issue tracker](https://github.com/smlnj/.github/issues).
+
 ## Sources of Information
+
+* The [**SML/NJ** website](https://smlnj.org).
 
 * Information about the implementation of **SML/NJ** (including future plans)
   can be found in the [**SML/NJ** Wiki](https://github.com/smlnj/.github/wiki).
