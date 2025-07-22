@@ -13,6 +13,8 @@ There are two main repositories:
   version while we make more radical changes in the development version.
   It supports older architectures (*e.g.*, the PowerPC and Sparc) and 32-bit
   executables.<br/>
+  The latest legacy release is
+  [110.99.8](https://smlnj.org/dist/working/110.99.8/index.html).<br/>
   To report bugs in the legacy versions, use the
   [legacy issue tracker](https://github.com/smlnj/legacy/issues).
 
@@ -20,6 +22,8 @@ There are two main repositories:
   is the latest version of the system.  We are making substantial changes to the
   runtime system and compiler backend in this repository, so it is not recommended
   for production work.<br/>
+  The latest development release is
+  [2025.1](https://smlnj.org/dist/working/2025.1/index.html).<br/>
   To report bugs in the development version, use the
   [development issue tracker](https://github.com/smlnj/smlnj/issues).
 
