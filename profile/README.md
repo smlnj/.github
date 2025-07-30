@@ -23,7 +23,7 @@ There are two main repositories:
   runtime system and compiler backend in this repository, so it is not recommended
   for production work.<br/>
   The latest development release is
-  [2025.1](https://smlnj.org/dist/working/2025.1/index.html).<br/>
+  [2025.2](https://smlnj.org/dist/working/2025.2/index.html).<br/>
   To report bugs in the development version, use the
   [development issue tracker](https://github.com/smlnj/smlnj/issues).
 
