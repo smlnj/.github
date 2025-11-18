@@ -14,7 +14,7 @@ There are two main repositories:
   It supports older architectures (*e.g.*, the PowerPC and Sparc) and 32-bit
   executables.<br/>
   The latest legacy release is
-  [110.99.8](https://smlnj.org/dist/working/110.99.8/index.html).<br/>
+  [110.99.9](https://smlnj.org/dist/working/110.99.9/index.html).<br/>
   To report bugs in the legacy versions, use the
   [legacy issue tracker](https://github.com/smlnj/legacy/issues).
 
