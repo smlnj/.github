@@ -39,5 +39,5 @@ There are two main repositories:
 
 * There are several online forums for general questions and discussion about **SML/NJ**:
     - [The Standard ML Organization at Zulip.com](https://standardml.zulipchat.com)
-    - [The discussions forum here on GitHub"](https://github.com/orgs/smlnj/discussions)
+    - [The discussions forum here on GitHub](https://github.com/orgs/smlnj/discussions)
     - [The **SML/NJ** Developer mailing list at the University of Chicago](https://mailman.cs.uchicago.edu/mailman/listinfo/smlnj-dev-list)
