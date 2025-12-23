@@ -20,10 +20,10 @@ There are two main repositories:
 
 * The ["development"](https://github.com/smlnj/smlnj) repository (smlnj/smlnj)
   is the latest version of the system.  We are making substantial changes to the
-  runtime system and compiler backend in this repository, so it is not recommended
-  for production work.<br/>
+  system in this repository that may break existing code, but it is robust enough
+  for day-to-day work.<br/>
   The latest development release is
-  [2025.2](https://smlnj.org/dist/working/2025.2/index.html).<br/>
+  [2025.3](https://smlnj.org/dist/working/2025.3/index.html).<br/>
   To report bugs in the development version, use the
   [development issue tracker](https://github.com/smlnj/smlnj/issues).
 
@@ -37,6 +37,7 @@ There are two main repositories:
 * Information about the implementation of **SML/NJ** (including future plans)
   can be found in the [**SML/NJ** Wiki](https://github.com/smlnj/.github/wiki).
 
-* For questions and discussion about SML/NJ, one resource is the Standard ML
-  Organization at [Zulip.com](https://standardml.zulipchat.com).
-  Another is the ["smlnj discussions forum"](https://github.com/orgs/smlnj/discussions).
+* There are several online forums for general questions and discussion about **SML/NJ**:
+    - [The Standard ML Organization at Zulip.com](https://standardml.zulipchat.com)
+    - [The discussions forum here on GitHub"](https://github.com/orgs/smlnj/discussions)
+    - [The **SML/NJ** Developer mailing list at the University of Chicago](https://mailman.cs.uchicago.edu/mailman/listinfo/smlnj-dev-list)
