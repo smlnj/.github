@@ -23,7 +23,7 @@ There are two main repositories:
   system in this repository that may break existing code, but it is robust enough
   for day-to-day work.<br/>
   The latest development release is
-  [2025.3](https://smlnj.org/dist/working/2025.3/index.html).<br/>
+  [2026.1](https://smlnj.org/dist/working/2026.1/index.html).<br/>
   To report bugs in the development version, use the
   [development issue tracker](https://github.com/smlnj/smlnj/issues).
 
