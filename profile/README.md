@@ -7,6 +7,15 @@ implementation of the [Standard ML Programming Language](https://github.com/SMLF
 
 There are two main repositories:
 
+* The ["development"](https://github.com/smlnj/smlnj) repository (smlnj/smlnj)
+  is the latest version of the system.  We are making substantial changes to the
+  system in this repository that may break existing code, but it is robust enough
+  for day-to-day work.<br/>
+  The latest development release is
+  [2026.3](https://smlnj.org/dist/working/2026.3/index.html).<br/>
+  To report bugs in the development version, use the
+  [development issue tracker](https://github.com/smlnj/smlnj/issues).
+
 * The ["legacy"](https://github.com/smlnj/legacy) repository
   (smlnj/legacy) contains the source
   for the 110.99 patch releases.  This version is being maintained as a stable
@@ -17,15 +26,6 @@ There are two main repositories:
   [110.99.9](https://smlnj.org/dist/working/110.99.9/index.html).<br/>
   To report bugs in the legacy versions, use the
   [legacy issue tracker](https://github.com/smlnj/legacy/issues).
-
-* The ["development"](https://github.com/smlnj/smlnj) repository (smlnj/smlnj)
-  is the latest version of the system.  We are making substantial changes to the
-  system in this repository that may break existing code, but it is robust enough
-  for day-to-day work.<br/>
-  The latest development release is
-  [2026.2](https://smlnj.org/dist/working/2026.2/index.html).<br/>
-  To report bugs in the development version, use the
-  [development issue tracker](https://github.com/smlnj/smlnj/issues).
 
 * Other issues, such as broken links on website or documentation errors should
   be reported using the [project issue tracker](https://github.com/smlnj/.github/issues).
