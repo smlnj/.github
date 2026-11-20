@@ -1,5 +1,8 @@
 # Standard ML of New Jersey
 
+‼️ The `smlnj.org` website is currently unavailable.  We do not know when it will be restored, but
+we hope it is soon. ‼️
+
 The [**Standard ML of New Jersey** (**SML/NJ**)](https://smlnj.org) project is an open-source
 implementation of the [Standard ML Programming Language](https://github.com/SMLFamily).
 
